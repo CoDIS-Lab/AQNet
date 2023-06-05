@@ -1,4 +1,4 @@
-# AQNet - Air Quality prediction Network
+# AQNet - Predicting air quality via multimodal AI and satellite imagery
 
 This repository presents Python files to reproduce the results published in our [paper](https://www.sciencedirect.com/science/article/pii/S0034425723001608)
 
@@ -40,7 +40,7 @@ These folders contain the documents necessary for regenerating outputs.
 **To train single output model without tabular data (AQNet (No Tabular)) for 40 epochs, run the following code from the `/Modules/SingleOutput` directory.
 **
 ```
-python training_single.py --epochs=40 --tabular_switch=False
+python training_single.py --epochs=40 --tabular=False
 ```
 
 **To train single output model (AQNet-Single) for 10 epochs, run the following code from the `/Modules/SingleOutput` directory.
