@@ -50,6 +50,11 @@ After the installation is completed, activate the environment:
 conda activate aqnet
 ```
 
+#### Satellite Imagery Download
+After setting up the environment, before running the experiments, You have to download Sentinel 2 and Sentinel 5P images. 
+
+Please download satellite imagery files from [Scheibenreif et. al.](https://zenodo.org/record/5764262#.YfJiPS1XYUs) into `/Datadir` folder.
+
 #### Example: 
 **To train single output model without tabular data (AQNet (No Tabular)) for 40 epochs, run the following code from the `/Modules/SingleOutput` directory.
 **
