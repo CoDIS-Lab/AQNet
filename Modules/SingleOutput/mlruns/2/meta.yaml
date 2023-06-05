@@ -1,0 +1,4 @@
+artifact_location: file:///lustre/home/ca-okarakus/AQNet/Modules/SingleOutput_multimodal/mlruns/2
+experiment_id: '2'
+lifecycle_stage: active
+name: 2023-05-05-12:06_ImageNet

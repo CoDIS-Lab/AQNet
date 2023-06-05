@@ -1,0 +1,15 @@
+artifact_uri: file:///lustre/home/ca-okarakus/AQNet/Modules/SingleOutput_multimodal/mlruns/405962624265362022/95cca9de8e6445bea57aa3921647648b/artifacts
+end_time: 1683295899129
+entry_point_name: ''
+experiment_id: '405962624265362022'
+lifecycle_stage: active
+run_id: 95cca9de8e6445bea57aa3921647648b
+run_name: unruly-shrimp-171
+run_uuid: 95cca9de8e6445bea57aa3921647648b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683295898912
+status: 4
+tags: []
+user_id: ca-okarakus

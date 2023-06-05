@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mwl/Desktop/Dissertation_Code/Modules/ThreeOutput_multimodal/mlruns/2/9b13f4753f3e4a68a90dbb91cf31834d/artifacts
+end_time: 1682419517790
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+name: ''
+run_id: 9b13f4753f3e4a68a90dbb91cf31834d
+run_uuid: 9b13f4753f3e4a68a90dbb91cf31834d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682419281473
+status: 3
+tags: []
+user_id: mwl

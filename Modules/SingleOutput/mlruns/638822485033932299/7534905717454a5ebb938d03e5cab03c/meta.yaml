@@ -1,0 +1,15 @@
+artifact_uri: file:///lustre/home/ca-okarakus/AQNet/Modules/SingleOutput_multimodal/mlruns/638822485033932299/7534905717454a5ebb938d03e5cab03c/artifacts
+end_time: 1683301609171
+entry_point_name: ''
+experiment_id: '638822485033932299'
+lifecycle_stage: active
+run_id: 7534905717454a5ebb938d03e5cab03c
+run_name: gaudy-mouse-734
+run_uuid: 7534905717454a5ebb938d03e5cab03c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683301474223
+status: 3
+tags: []
+user_id: ca-okarakus

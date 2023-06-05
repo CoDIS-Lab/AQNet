@@ -1,0 +1,15 @@
+artifact_uri: file:///lustre/home/ca-okarakus/AQNet/Modules/ThreeOutput_multimodal/mlruns/106446427365495428/39ec6d85aee34a1cb33cd6f8cc016c47/artifacts
+end_time: 1683298578415
+entry_point_name: ''
+experiment_id: '106446427365495428'
+lifecycle_stage: active
+run_id: 39ec6d85aee34a1cb33cd6f8cc016c47
+run_name: bold-rook-876
+run_uuid: 39ec6d85aee34a1cb33cd6f8cc016c47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683298469507
+status: 3
+tags: []
+user_id: ca-okarakus

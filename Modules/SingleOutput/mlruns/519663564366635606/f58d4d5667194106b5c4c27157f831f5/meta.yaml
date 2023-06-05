@@ -1,0 +1,15 @@
+artifact_uri: file:///lustre/home/ca-okarakus/AQNet/Modules/SingleOutput_multimodal/mlruns/519663564366635606/f58d4d5667194106b5c4c27157f831f5/artifacts
+end_time: 1683299617483
+entry_point_name: ''
+experiment_id: '519663564366635606'
+lifecycle_stage: active
+run_id: f58d4d5667194106b5c4c27157f831f5
+run_name: trusting-bat-928
+run_uuid: f58d4d5667194106b5c4c27157f831f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683299532438
+status: 3
+tags: []
+user_id: ca-okarakus

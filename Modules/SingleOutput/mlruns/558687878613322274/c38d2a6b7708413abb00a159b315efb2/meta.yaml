@@ -1,0 +1,15 @@
+artifact_uri: file:///lustre/home/ca-okarakus/AQNet/Modules/SingleOutput/mlruns/558687878613322274/c38d2a6b7708413abb00a159b315efb2/artifacts
+end_time: 1686002337051
+entry_point_name: ''
+experiment_id: '558687878613322274'
+lifecycle_stage: active
+run_id: c38d2a6b7708413abb00a159b315efb2
+run_name: skittish-kit-517
+run_uuid: c38d2a6b7708413abb00a159b315efb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686002136056
+status: 3
+tags: []
+user_id: ca-okarakus

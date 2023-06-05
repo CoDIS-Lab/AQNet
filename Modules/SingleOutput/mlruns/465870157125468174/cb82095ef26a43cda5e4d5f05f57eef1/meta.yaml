@@ -1,0 +1,15 @@
+artifact_uri: file:///lustre/home/ca-okarakus/AQNet/Modules/SingleOutput_multimodal/mlruns/465870157125468174/cb82095ef26a43cda5e4d5f05f57eef1/artifacts
+end_time: 1683295749942
+entry_point_name: ''
+experiment_id: '465870157125468174'
+lifecycle_stage: active
+run_id: cb82095ef26a43cda5e4d5f05f57eef1
+run_name: redolent-boar-49
+run_uuid: cb82095ef26a43cda5e4d5f05f57eef1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683295749689
+status: 4
+tags: []
+user_id: ca-okarakus

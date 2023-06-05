@@ -1,0 +1,15 @@
+artifact_uri: file:///lustre/home/ca-okarakus/AQNet/Modules/SingleOutput/mlruns/558687878613322274/cd67201a813a4f5293e0d247cfabc6b1/artifacts
+end_time: 1686002136047
+entry_point_name: ''
+experiment_id: '558687878613322274'
+lifecycle_stage: active
+run_id: cd67201a813a4f5293e0d247cfabc6b1
+run_name: caring-robin-247
+run_uuid: cd67201a813a4f5293e0d247cfabc6b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686001916268
+status: 3
+tags: []
+user_id: ca-okarakus

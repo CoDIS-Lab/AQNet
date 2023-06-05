@@ -1,0 +1,15 @@
+artifact_uri: file:///lustre/home/ca-okarakus/AQNet/Modules/SingleOutput_multimodal/mlruns/638822485033932299/5d04169912f7412eb83a72a70a018c02/artifacts
+end_time: 1683301474218
+entry_point_name: ''
+experiment_id: '638822485033932299'
+lifecycle_stage: active
+run_id: 5d04169912f7412eb83a72a70a018c02
+run_name: useful-sponge-538
+run_uuid: 5d04169912f7412eb83a72a70a018c02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683301338013
+status: 3
+tags: []
+user_id: ca-okarakus

@@ -1,0 +1,15 @@
+artifact_uri: file:///lustre/home/ca-okarakus/AQNet/Modules/SingleOutput_multimodal/mlruns/4/0c45b99ad73b40099633a9c3704df0e6/artifacts
+end_time: 1683285614057
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+name: ''
+run_id: 0c45b99ad73b40099633a9c3704df0e6
+run_uuid: 0c45b99ad73b40099633a9c3704df0e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683285613613
+status: 4
+tags: []
+user_id: ca-okarakus

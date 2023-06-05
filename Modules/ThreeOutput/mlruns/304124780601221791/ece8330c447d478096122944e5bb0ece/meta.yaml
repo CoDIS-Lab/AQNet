@@ -1,0 +1,15 @@
+artifact_uri: file:///lustre/home/ca-okarakus/AQNet/Modules/ThreeOutput_multimodal/mlruns/304124780601221791/ece8330c447d478096122944e5bb0ece/artifacts
+end_time: 1683297579536
+entry_point_name: ''
+experiment_id: '304124780601221791'
+lifecycle_stage: active
+run_id: ece8330c447d478096122944e5bb0ece
+run_name: placid-roo-321
+run_uuid: ece8330c447d478096122944e5bb0ece
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683297471005
+status: 3
+tags: []
+user_id: ca-okarakus

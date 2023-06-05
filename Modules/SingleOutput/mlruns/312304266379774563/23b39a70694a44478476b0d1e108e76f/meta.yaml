@@ -1,0 +1,15 @@
+artifact_uri: file:///lustre/home/ca-okarakus/AQNet/Modules/SingleOutput_multimodal/mlruns/312304266379774563/23b39a70694a44478476b0d1e108e76f/artifacts
+end_time: 1683294552633
+entry_point_name: ''
+experiment_id: '312304266379774563'
+lifecycle_stage: active
+run_id: 23b39a70694a44478476b0d1e108e76f
+run_name: bald-elk-393
+run_uuid: 23b39a70694a44478476b0d1e108e76f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683294551541
+status: 4
+tags: []
+user_id: ca-okarakus

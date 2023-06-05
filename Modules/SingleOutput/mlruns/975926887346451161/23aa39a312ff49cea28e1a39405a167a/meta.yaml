@@ -1,0 +1,15 @@
+artifact_uri: file:///lustre/home/ca-okarakus/AQNet/Modules/SingleOutput_multimodal/mlruns/975926887346451161/23aa39a312ff49cea28e1a39405a167a/artifacts
+end_time: 1683296406336
+entry_point_name: ''
+experiment_id: '975926887346451161'
+lifecycle_stage: active
+run_id: 23aa39a312ff49cea28e1a39405a167a
+run_name: thoughtful-lamb-437
+run_uuid: 23aa39a312ff49cea28e1a39405a167a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683296312181
+status: 3
+tags: []
+user_id: ca-okarakus

@@ -1,0 +1,15 @@
+artifact_uri: file:///lustre/home/ca-okarakus/AQNet/Modules/ThreeOutput_multimodal/mlruns/304124780601221791/aa96c81adc5c42208dfddc0cc6a09324/artifacts
+end_time: 1683297363347
+entry_point_name: ''
+experiment_id: '304124780601221791'
+lifecycle_stage: active
+run_id: aa96c81adc5c42208dfddc0cc6a09324
+run_name: traveling-bug-11
+run_uuid: aa96c81adc5c42208dfddc0cc6a09324
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683297255626
+status: 3
+tags: []
+user_id: ca-okarakus

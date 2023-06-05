@@ -1,0 +1,15 @@
+artifact_uri: file:///lustre/home/ca-okarakus/AQNet/Modules/SingleOutput/mlruns/558687878613322274/1693cd9133dc4f9bb72e5e1e9d9f044a/artifacts
+end_time: 1686001507710
+entry_point_name: ''
+experiment_id: '558687878613322274'
+lifecycle_stage: active
+run_id: 1693cd9133dc4f9bb72e5e1e9d9f044a
+run_name: omniscient-hawk-830
+run_uuid: 1693cd9133dc4f9bb72e5e1e9d9f044a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686001342394
+status: 3
+tags: []
+user_id: ca-okarakus

@@ -1,0 +1,15 @@
+artifact_uri: file:///lustre/home/ca-okarakus/AQNet/Modules/SingleOutput_multimodal/mlruns/975926887346451161/2be172ea9599401eb0bb1fdd7db36ffc/artifacts
+end_time: 1683296694333
+entry_point_name: ''
+experiment_id: '975926887346451161'
+lifecycle_stage: active
+run_id: 2be172ea9599401eb0bb1fdd7db36ffc
+run_name: luxuriant-hen-235
+run_uuid: 2be172ea9599401eb0bb1fdd7db36ffc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683296598071
+status: 3
+tags: []
+user_id: ca-okarakus

@@ -1,0 +1,15 @@
+artifact_uri: file:///lustre/home/ca-okarakus/AQNet/Modules/SingleOutput_multimodal/mlruns/147589997261655622/77296278f6464d579e155de08b9e652e/artifacts
+end_time: 1683294984935
+entry_point_name: ''
+experiment_id: '147589997261655622'
+lifecycle_stage: active
+run_id: 77296278f6464d579e155de08b9e652e
+run_name: secretive-ox-767
+run_uuid: 77296278f6464d579e155de08b9e652e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683294984586
+status: 4
+tags: []
+user_id: ca-okarakus

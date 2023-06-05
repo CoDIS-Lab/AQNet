@@ -1,0 +1,15 @@
+artifact_uri: file:///lustre/home/ca-okarakus/AQNet/Modules/ThreeOutput_multimodal/mlruns/304124780601221791/04ef4868d59b4c22a5d8541a357d4693/artifacts
+end_time: 1683297255622
+entry_point_name: ''
+experiment_id: '304124780601221791'
+lifecycle_stage: active
+run_id: 04ef4868d59b4c22a5d8541a357d4693
+run_name: zealous-trout-572
+run_uuid: 04ef4868d59b4c22a5d8541a357d4693
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683297150209
+status: 3
+tags: []
+user_id: ca-okarakus

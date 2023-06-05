@@ -1,0 +1,15 @@
+artifact_uri: file:///lustre/home/ca-okarakus/AQNet/Modules/SingleOutput_multimodal/mlruns/519663564366635606/626b53d426294022a762c46ed3a4b53c/artifacts
+end_time: 1683299786014
+entry_point_name: ''
+experiment_id: '519663564366635606'
+lifecycle_stage: active
+run_id: 626b53d426294022a762c46ed3a4b53c
+run_name: loud-hawk-573
+run_uuid: 626b53d426294022a762c46ed3a4b53c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683299700764
+status: 3
+tags: []
+user_id: ca-okarakus

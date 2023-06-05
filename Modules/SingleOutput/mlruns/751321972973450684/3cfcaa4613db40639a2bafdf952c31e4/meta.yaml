@@ -1,0 +1,15 @@
+artifact_uri: file:///lustre/home/ca-okarakus/AQNet/Modules/SingleOutput_multimodal/mlruns/751321972973450684/3cfcaa4613db40639a2bafdf952c31e4/artifacts
+end_time: 1683295995065
+entry_point_name: ''
+experiment_id: '751321972973450684'
+lifecycle_stage: active
+run_id: 3cfcaa4613db40639a2bafdf952c31e4
+run_name: handsome-squid-594
+run_uuid: 3cfcaa4613db40639a2bafdf952c31e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683295994692
+status: 4
+tags: []
+user_id: ca-okarakus

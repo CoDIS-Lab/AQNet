@@ -1,0 +1,15 @@
+artifact_uri: file:///lustre/home/ca-okarakus/AQNet/Modules/ThreeOutput_multimodal/mlruns/304124780601221791/6aee58ab557741a497d38611e1f6b3ee/artifacts
+end_time: 1683297150203
+entry_point_name: ''
+experiment_id: '304124780601221791'
+lifecycle_stage: active
+run_id: 6aee58ab557741a497d38611e1f6b3ee
+run_name: able-hound-417
+run_uuid: 6aee58ab557741a497d38611e1f6b3ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683297040738
+status: 3
+tags: []
+user_id: ca-okarakus

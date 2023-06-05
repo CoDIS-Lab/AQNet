@@ -1,0 +1,15 @@
+artifact_uri: file:///lustre/home/ca-okarakus/AQNet/Modules/SingleOutput_multimodal/mlruns/995024311165995060/6bde073fd95d4e129384720de0aefe17/artifacts
+end_time: 1683292376204
+entry_point_name: ''
+experiment_id: '995024311165995060'
+lifecycle_stage: active
+run_id: 6bde073fd95d4e129384720de0aefe17
+run_name: adaptable-bear-224
+run_uuid: 6bde073fd95d4e129384720de0aefe17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683292375902
+status: 4
+tags: []
+user_id: ca-okarakus

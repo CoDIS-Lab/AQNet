@@ -1,0 +1,15 @@
+artifact_uri: file:///lustre/home/ca-okarakus/AQNet/Modules/ThreeOutput_multimodal/mlruns/106446427365495428/5a94ba99f6594aa2a4ac8444301ace34/artifacts
+end_time: 1683298252297
+entry_point_name: ''
+experiment_id: '106446427365495428'
+lifecycle_stage: active
+run_id: 5a94ba99f6594aa2a4ac8444301ace34
+run_name: silent-penguin-373
+run_uuid: 5a94ba99f6594aa2a4ac8444301ace34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683298141700
+status: 3
+tags: []
+user_id: ca-okarakus

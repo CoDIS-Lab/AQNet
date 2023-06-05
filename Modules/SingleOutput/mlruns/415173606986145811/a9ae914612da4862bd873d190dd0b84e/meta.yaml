@@ -1,0 +1,15 @@
+artifact_uri: file:///lustre/home/ca-okarakus/AQNet/Modules/SingleOutput/mlruns/415173606986145811/a9ae914612da4862bd873d190dd0b84e/artifacts
+end_time: 1685999977258
+entry_point_name: ''
+experiment_id: '415173606986145811'
+lifecycle_stage: active
+run_id: a9ae914612da4862bd873d190dd0b84e
+run_name: peaceful-wasp-253
+run_uuid: a9ae914612da4862bd873d190dd0b84e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685999763150
+status: 3
+tags: []
+user_id: ca-okarakus

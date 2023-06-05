@@ -1,0 +1,15 @@
+artifact_uri: file:///lustre/home/ca-okarakus/AQNet/Modules/SingleOutput_multimodal/mlruns/975926887346451161/ae138885391e4fb9bae71b2f7c0a0934/artifacts
+end_time: 1683296312172
+entry_point_name: ''
+experiment_id: '975926887346451161'
+lifecycle_stage: active
+run_id: ae138885391e4fb9bae71b2f7c0a0934
+run_name: luminous-calf-754
+run_uuid: ae138885391e4fb9bae71b2f7c0a0934
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683296195565
+status: 3
+tags: []
+user_id: ca-okarakus

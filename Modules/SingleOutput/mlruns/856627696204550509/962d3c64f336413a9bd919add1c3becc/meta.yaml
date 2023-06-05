@@ -1,0 +1,15 @@
+artifact_uri: file:///lustre/home/ca-okarakus/AQNet/Modules/SingleOutput_multimodal/mlruns/856627696204550509/962d3c64f336413a9bd919add1c3becc/artifacts
+end_time: 1683300508744
+entry_point_name: ''
+experiment_id: '856627696204550509'
+lifecycle_stage: active
+run_id: 962d3c64f336413a9bd919add1c3becc
+run_name: delightful-crow-559
+run_uuid: 962d3c64f336413a9bd919add1c3becc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683300370747
+status: 3
+tags: []
+user_id: ca-okarakus

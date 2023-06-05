@@ -1,0 +1,15 @@
+artifact_uri: file:///lustre/home/ca-okarakus/AQNet/Modules/SingleOutput_multimodal/mlruns/638822485033932299/722aa830afa6413caa39413b705b3fa7/artifacts
+end_time: 1683301338007
+entry_point_name: ''
+experiment_id: '638822485033932299'
+lifecycle_stage: active
+run_id: 722aa830afa6413caa39413b705b3fa7
+run_name: shivering-gnat-316
+run_uuid: 722aa830afa6413caa39413b705b3fa7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683301195923
+status: 3
+tags: []
+user_id: ca-okarakus
