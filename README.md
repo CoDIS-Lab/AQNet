@@ -28,8 +28,11 @@ These folders contain the documents necessary for regenerating outputs.
 		  - And here are sample lookups and generator created during this project to facilitate multioutput predictions.
 	\timeseries_data
 	  - Outputs from running the "discomap_extractor.ipynb" notebook, aggregated pollution measurements.
+\Notebooks
+	- Notebooks used in the the sourcing or testing of data in this project.
+
 \Modules
-	+ Contains two subfolders, one for each iteration of testing/modelling.
+	- Contains two subfolders, one for each iteration of testing/modelling.
 	\SingleOutput
 		- .py files for modelling with 1 pollutant with mulitmodal architecture
 	\ThreeOutput
