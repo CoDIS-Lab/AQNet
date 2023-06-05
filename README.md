@@ -2,10 +2,8 @@
 
 The AQNet implementation code for the paper entitled *Predicting air quality via multimodal AI and satellite imagery* will be made available here soon.
 
+**Folders and their content can be given below:**
 ```
-Dissertation Project supporting files
-Andrew Rowley C210801077 
-
 These folders contain the documents necessary for regenerating outputs.
 
 \Checkpoints
