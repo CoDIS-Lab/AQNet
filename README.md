@@ -35,3 +35,40 @@ These folders contain the documents necessary for regenerating outputs.
 	\ThreeOutput
 		- .py files for modelling with 3 pollutants with mulitmodal architecture
 ```
+
+#### Example: 
+**To train single output model without tabular data (AQNet (No Tabular)) for 40 epochs, run the following code from the `/Modules/SingleOutput` directory.
+**
+```
+python training_single.py --epochs=40 --tabular_switch=False
+```
+
+**To train single output model (AQNet-Single) for 10 epochs, run the following code from the `/Modules/SingleOutput` directory.
+**
+```
+python training_single.py --epochs=10
+```
+
+**To train three output model (AQNet) for 20 epochs, run the following code from the `/Modules/ThreeOutput` directory.
+**
+```
+python training_3poll.py --epochs=20
+```
+
+#### Reference
+To cite our work, please use:
+* Rowley, Andrew, and Oktay Karakuş. "Predicting air quality via multimodal AI and satellite imagery." Remote Sensing of Environment 293 (2023): 113609.*
+
+```
+@article{ROWLEY2023113609,
+title = {Predicting air quality via multimodal AI and satellite imagery},
+journal = {Remote Sensing of Environment},
+volume = {293},
+pages = {113609},
+year = {2023},
+issn = {0034-4257},
+doi = {https://doi.org/10.1016/j.rse.2023.113609},
+url = {https://www.sciencedirect.com/science/article/pii/S0034425723001608},
+author = {Andrew Rowley and Oktay Karakuş}
+}
+```
