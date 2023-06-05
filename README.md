@@ -36,6 +36,20 @@ These folders contain the documents necessary for regenerating outputs.
 		- .py files for modelling with 3 pollutants with mulitmodal architecture
 ```
 
+#### Installation Guide
+
+The requirements are easily installed via
+[Anaconda](https://www.anaconda.com/distribution/#download-section) (recommended):
+
+```bash
+conda create --name aqnet --file requirements.txt
+```
+
+After the installation is completed, activate the environment:
+```bash
+conda activate aqnet
+```
+
 #### Example: 
 **To train single output model without tabular data (AQNet (No Tabular)) for 40 epochs, run the following code from the `/Modules/SingleOutput` directory.
 **
