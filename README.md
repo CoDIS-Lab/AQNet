@@ -9,6 +9,8 @@ These folders contain the documents necessary for regenerating outputs.
 \Checkpoints
 	 - One pretrained ResNet50 network from previous project.
 	 - One multimodal, MobileNet backboned model for testing OOS cases.
+\Datadir
+	 - Folder to include Sentinel 2 and Sentinel 5P imagery from https://zenodo.org/record/5764262#.YfJiPS1XYUs 
 \Data
 	\data
 		\basic
