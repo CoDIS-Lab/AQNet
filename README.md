@@ -96,4 +96,4 @@ author = {Andrew Rowley and Oktay Karakuş}
 ```
 
 #### Questions
-Please contact Dr Oktay Karakus via [mailto](karakuso@cardiff.ac.uk).
+Please contact Dr Oktay Karakus via [email](mailto:karakuso@cardiff.ac.uk).
