@@ -98,4 +98,4 @@ author = {Andrew Rowley and Oktay Karakuş}
 #### Questions
 Please contact Dr Oktay Karakus via [email](mailto:karakuso@cardiff.ac.uk).
 
-GitHub page ==> [CoDIS-Lab/AQNet](https://github.com/CoDIS-Lab/AQNet)
+GitHub page ==> (https://github.com/CoDIS-Lab/AQNet)
